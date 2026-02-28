@@ -1,0 +1,14 @@
+<Solution>
+  <Project Path="Hospital.API.Test/Hospital.API.Test.csproj" />
+  <Project Path="Hospital.API/Hospital.API.csproj" />
+  <Project Path="Hospital.Application/Hospital.Application.csproj" />
+  <Project Path="Hospital.Console.Test/Hospital.Console.Test.csproj" />
+  <Project Path="Hospital.Console/Hospital.Console.csproj" />
+  <Project Path="Hospital.DoctorService/Hospital.DoctorService.csproj" />
+  <Project Path="Hospital.Domain/Hospital.Domain.csproj" />
+  <Project Path="Hospital.Infrastructure/Hospital.Infrastructure.csproj" />
+  <Project Path="Hospital.PatientService/Hospital.PatientService.csproj" />
+  <Project Path="Hospital.Web.Test/Hospital.Web.Test.csproj" />
+  <Project Path="Hospital.Web/Hospital.Web.csproj" />
+  <Project Path="HospitalManagementSolution.HTML/HospitalManagementSolution.HTML.csproj" />
+</Solution>
